@@ -1,0 +1,5 @@
+Codeset Moony
+Copyright 2013 codeset.org
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
