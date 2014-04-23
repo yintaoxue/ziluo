@@ -2,7 +2,6 @@ package org.codeset.moony.servlet;
 
 import java.io.IOException;
 import java.util.List;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -15,6 +14,7 @@ import org.codeset.moony.service.PostService;
 /**
  * Servlet implementation class HomeServlet
  */
+@WebServlet("/home")
 public class HomeServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
