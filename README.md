@@ -2,19 +2,19 @@
 =====
 This project is in development...
 
-### Moony
-A Solr client with consistent facade.
+### ziluo
+A Solr and ElasticSearch client with consistent facade.
 
-Moony通过对SolrClient封装，以统一的接口支持Solr单核及SolrCloud，提供对Solr server的管理，支持热备切换等。
+ziluo通过对SolrClient封装，以统一的接口支持Solr单核及SolrCloud，提供对搜索server的管理，支持热备切换等。
 
 ### Documentation
-Documentation and tutorials can be found on the [Moony wiki](http://github.com/yintaoxue/moony/wiki).
+Documentation and tutorials can be found on the [Ziluo wiki](http://github.com/yintaoxue/ziluo/wiki).
 
 ## License
 <pre>
 This software is licensed under the Apache 2 license, quoted below.
 
-Copyright 2015 Talin <http://codeset.org>
+Copyright 2016 Talin <http://codeset.org>
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of
